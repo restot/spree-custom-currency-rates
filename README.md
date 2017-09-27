@@ -1,7 +1,7 @@
 Spree Custom Currency Rates
 ================================
 Req.
-Spree => 3.3.0
+Spree => 3
 
 You can setup another currencies and rates. 
 
