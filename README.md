@@ -6,8 +6,8 @@ You can setup another currencies and rates.
 Logic next: 
 1. Get product.variant.currency
 2. If product.variant.currency == MainCurrency
-2.1. product.price * MainCurrency.rate # yep you can specified a main currency rate
-3. else  product.price * product.variant.currency.rate
+3. product.price * MainCurrency.rate # yep you can specified a main currency rate
+4. else  product.price * product.variant.currency.rate
 
 In admin panel in column price you can see product price in original currency and price in main currency if original currency exist.
 
