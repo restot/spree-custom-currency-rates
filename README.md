@@ -12,6 +12,7 @@ Logic next:
 In admin panel in column price you can see product price in original currency and price in main currency if original currency exist.
 
 Note: After install gem, all prices on your shop proceed this gem.
+Note: If you dont want change main currency rate, just create this currency with rate 1, you can see main currency rate in first fake row in "AdminPanel -> Rates"  # its not bug, its feature
 
 ## Installation
 
